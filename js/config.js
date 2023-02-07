@@ -1,6 +1,6 @@
-const correspondent_id = 1;
+const correspondent_id = 1322;
 
-const correspondent_identifier = 'frente';
+const correspondent_identifier = 'sarainvest';
 
 const remittanceData = {
   inbound: {
